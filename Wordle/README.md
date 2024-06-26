@@ -30,3 +30,4 @@ The features that I have displayed are;
 
 <!-- Potential other features wanting -->
 <!-- To have a dictonary meaning of all the words available -->
+<!-- Score list (percentile of how many times the player got the word correct) -->
