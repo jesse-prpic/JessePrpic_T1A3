@@ -28,4 +28,5 @@ The features that I have displayed are;
         - the objective of this is for the user to not be able to use a filler word.
 
 
-
+<!-- Potential other features wanting -->
+<!-- To have a dictonary meaning of all the words available -->
