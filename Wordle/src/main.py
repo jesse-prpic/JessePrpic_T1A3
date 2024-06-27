@@ -45,3 +45,4 @@ while play_again != "e":
              print(colored(f"Better luck next time - the word was... {word} ", "white", "on_red", attrs=["bold"]))
     play_again = input("Want to play again? Press enter and guess another word. \n Type 'e' to exit")
 
+     
